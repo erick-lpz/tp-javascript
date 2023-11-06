@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+
+.navbar {
+    font-family: 'Fira Sans', sans-serif;
+}	
+
+#cards {
+    font-family: 'Fira Sans', sans-serif;
+    margin-top: 10px;
+}	
+
+#contacto {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.custom-section {
+    max-width: 600px;
+    margin: 0 auto;
+}
+  
+.custom-section form input,
+.custom-section form select,
+.custom-section form button {
+    width: 100%; 
+    margin-bottom: 10px; 
+}
+  
+.custom-section form button {
+    width: 49.5%;
+}
